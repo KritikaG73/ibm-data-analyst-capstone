@@ -73,7 +73,7 @@ The dashboards include:
 
 📊 **Dashboard PDF**
 
-[Google Looker Studio Dashboards](dashboards/Google_Looker_Studio_Dashboards.pdf)
+[Google Looker Studio Dashboards](dashboard/Google_Looker_Studio_Dashboards.pdf)
 
 
 ---
