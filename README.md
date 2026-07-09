@@ -46,18 +46,20 @@ Stack Overflow Developer Survey
 6. Insight Generation
 
 ---
+## Dashboard Visualizations
 
-## Dashboards
+As part of the capstone project, I designed interactive dashboards using **Google Looker Studio** to analyze the Stack Overflow Developer Survey dataset.
 
-### IBM Cognos Analytics
+The dashboards include:
 
-- Current Technology Usage
-- Future Technology Trends
-- Developer Demographics
+- Technology trends developers want to work with
+- Technology currently used by developers
+- Programming language trends
+- Database trends
+- Cloud platform adoption
+- Developer demographics
 
-### Google Looker Studio
-
-Interactive dashboard highlighting technology trends and developer insights.
+📊 **Dashboard PDF:** [Google Looker Studio Dashboards](dashboards/Google_Looker_Studio_Dashboards.pdf)
 
 ---
 
