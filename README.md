@@ -31,7 +31,6 @@ Stack Overflow Developer Survey
 - Microsoft Excel
 - SQL
 - Python (Pandas)
-- IBM Cognos Analytics
 - Google Looker Studio
 
 ---
