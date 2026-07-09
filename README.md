@@ -89,7 +89,6 @@ The dashboards include:
 ```
 presentation/
 dashboards/
-images/
 README.md
 ```
 
