@@ -59,7 +59,7 @@ The dashboards include:
 - Cloud platform adoption
 - Developer demographics
 
-📊 **Dashboard PDF:** [Google Looker Studio Dashboards](dashboards/Google_Looker_Studio_Dashboards.pdf)
+📊 **Dashboard PDF:** [Google Looker Studio Dashboards]()
 
 ---
 
